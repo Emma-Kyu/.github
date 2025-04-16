@@ -1,2 +1,2 @@
 # .github
-Emma-Kyu
+Emma-Kyu. The AI powered VTuber
